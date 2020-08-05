@@ -183,7 +183,7 @@ h2 {
 .eval-item li:before,
 .project dl dd li:before {
     content: "";
-    background: url('../img/check.png') no-repeat;
+    /*background: url('../img/check.png') no-repeat;*/
     background-size: .8em .8em;
     /* 12/15 */
     display: inline-block;
